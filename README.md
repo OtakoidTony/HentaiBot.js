@@ -1,5 +1,5 @@
 # HentaiBot.js
 
 ## Require Package
-Discord.js
-Request.js
+* Discord.js  
+* Request.js
